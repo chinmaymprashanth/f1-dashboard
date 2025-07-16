@@ -159,7 +159,7 @@ selected_driver = st.selectbox(
 # Load lap_times.csv only once
 @st.cache_data
 def load_lap_times():
-    df_laps = pd.read_csv("lap_times_full.csv")
+    df_laps = pd.read_csv("lap_times_full.csv.zip")
     return df_laps
 
 lap_times_df = load_lap_times()
