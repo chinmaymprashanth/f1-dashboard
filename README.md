@@ -10,7 +10,7 @@ An interactive **F1 race analytics dashboard** built with **Streamlit**, **Panda
 
 ## 🚀 Live Demo
 
-👉 [View the App](https://f1-dashboard.streamlit.app) — hosted on **Streamlit Community Cloud**
+👉 [View the App](https://f1--dashboard.streamlit.app) — hosted on **Streamlit Community Cloud**
 
 ---
 
